@@ -4,6 +4,7 @@ body{
   margin-right: 4%;
   margin-bottom: 8%;
   background: #F4F6F7;
+  text-align: center;
 }
 
 .title{
@@ -51,4 +52,10 @@ h3 {
 
 .dates, .details, li, #email_address, #mailing_address, #phone_number, h3{
   color: #545C52;
+}
+
+#main_div {
+  max-width: 1000px;
+  text-align: left;
+  display: inline-block;
 }
