@@ -2,7 +2,7 @@ body{
   background: #E8E9EA;
 }
 
-#main_div{
+.main{
   text-align: justified;
   margin-left: 10%;
   margin-right: 10%;
