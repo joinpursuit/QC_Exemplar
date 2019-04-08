@@ -2,14 +2,21 @@ body{
   background: #E8E9EA;
 }
 
+#main_div{
+  text-align: justified;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+}
+
 .title{
   color: #36A57B;
   text-align: center;
 }
 
-.section_headers{
-  color: #6D5B77;
-  display:inline;
+.contact_info{
+  display: inline-block;
 }
 
 .container{
@@ -21,15 +28,15 @@ body{
   width: 100%;
   display: inline-block;
 }
-#email_address, #phone_number, #mailing_address{
-  display: inline-block;
-}
 
+.section_headers{
+  color: #6D5B77;
+  display:inline;
+}
 
 .break_line {
   border-top: 2px solid #84A4A5;
   margin-bottom: 7px;
-
 }
 
 h3 {
@@ -44,14 +51,8 @@ h3 {
   font-style: italic;
 }
 
-.dates, .details, li, #email_address, #mailing_address, #phone_number, h3{
+.main_text_color{
   color: #545C52;
 }
 
-#main_div{
-  text-align: justified;
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-top: 8%;
-  margin-bottom: 8%;
-}
+
