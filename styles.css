@@ -51,7 +51,7 @@ h3 {
   font-style: italic;
 }
 
-.details, .dates, h3, li, .contact-info{
+.details, .dates, h3, li, .contact_info{
   color: #545C52;
 }
 
