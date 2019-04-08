@@ -2,15 +2,15 @@ body{
   background: #E8E9EA;
 }
 
-#main{
-  text-align: justify;
+#main_div{
+  text-align: justified;
   margin-left: 10%;
   margin-right: 10%;
   margin-top: 8%;
   margin-bottom: 8%;
 }
 
-h1{
+.title{
   color: #36A57B;
   text-align: center;
 }
